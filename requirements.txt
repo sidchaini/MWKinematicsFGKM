@@ -1,0 +1,7 @@
+astropy>=6
+numpy>=1.26
+pandas>2.2
+scipy>=1.13
+matplotlib>=3.8
+healpy>=1.17
+astroML>=1.0.2
