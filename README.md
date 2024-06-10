@@ -6,13 +6,20 @@ We validate the Bond et. al. (2010) kinematic models for the Milky Way's disk an
 All our results from this paper can be reproduced with this notebook. The data needed to run the code can be found in https://doi.org/10.5281/zenodo.11483943
 
 ## Quickstart
-1. Clone this repository: ```git clone https://github.com/sidchaini/MWKinematicsFGKM.git```
-2. Download data: ```wget -P data/ -i data/download.txt```
-3. Install required packages ```pip install -r requirements.txt```
-4. Open and run the notebook ```[validationBond+2010_GaiaDR3.ipynb](validationBond+2010_GaiaDR3.ipynb)```
+1. **Clone this repository** 
+```bash
+git clone https://github.com/sidchaini/MWKinematicsFGKM.git
+```
+2. **Download data** 
+```bash
+wget -P data/ -i data/download.txt
+```
+3. **Install required packages**
+```bash
+pip install -r requirements.txt
+```
+4. **Open and run the notebook**
+[```notebook/validationBond+2010_GaiaDR3.ipynb```](https://github.com/sidchaini/MWKinematicsFGKM/blob/main/notebook/validationBond%2B2010_GaiaDR3.ipynb)
 
 ## Authors
 Bruno Domínguez, Siddharth Chaini, Karlo Mrakovčić, Brandon Sallee, and Željko Ivezić
-
-
-
